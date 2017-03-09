@@ -9,6 +9,9 @@ comments: false
 <center><a href="https://codeforkoffee.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
+
+![alt text](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
+
 * Code Platoon
 * bravo
 * Disqus integration
